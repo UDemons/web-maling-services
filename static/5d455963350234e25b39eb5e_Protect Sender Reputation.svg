@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="74px" viewBox="0 0 78 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>Protect Sender Reputation</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Protect-Sender-Reputation" transform="translate(-1.000000, -3.000000)">
+            <rect id="Rectangle" x="0" y="0" width="80" height="80"></rect>
+            <path d="M34,3.21209826 L1.5,16.6626072 L1.5,37.0013284 C1.5,48.6209001 6.12978447,58.3428042 14.0034213,65.7760555 C19.9553471,71.3950803 27.6045505,75.3657571 33.3572508,76.4404758 L34,76.5605541 L34.6427492,76.4404758 C40.3954495,75.3657571 48.0446529,71.3950803 53.9965787,65.7760555 C61.8702155,58.3428042 66.5,48.6209001 66.5,37.0013284 L66.5,16.6626072 L34,3.21209826 Z M34,10.7879017 L59.5,21.341378 L59.5,37.0013284 C59.5,46.5922601 55.7263471,54.5164068 49.1912259,60.6860079 C44.4396352,65.1718343 38.3777069,68.4145875 34,69.4249973 C29.6222931,68.4145875 23.5603648,65.1718343 18.8087741,60.6860079 C12.2736529,54.5164068 8.5,46.5922601 8.5,37.0013284 L8.5,21.341378 L34,10.7879017 Z" id="Path" fill="#0F0F0F" fill-rule="nonzero"></path>
+            <g id="Group-22" transform="translate(47.000000, 3.000000)">
+                <circle id="Oval" fill="#00C27B" cx="16" cy="16" r="16"></circle>
+                <polygon id="Path" fill="#F6F6F6" points="21.4080951 9.14285714 13.9438511 16.4555588 10.5919049 13.2576398 7.23809524 16.6089647 13.9438511 23.3122358 24.7619048 12.4941821"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

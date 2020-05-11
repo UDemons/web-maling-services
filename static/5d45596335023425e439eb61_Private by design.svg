@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="77px" viewBox="0 0 71 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>Private by design</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Private-by-design">
+            <path d="M0,53 L0,30 L0,0 L61,0 L61,30 L61,53 L61,76 L0,76 L0,53 Z M7,53 L7,69 L54,69 L54,53 L7,53 Z M7,46 L54,46 L54,30 L7,30 L7,46 Z M54,23 L54,7 L7,7 L7,23 L54,23 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <circle id="Oval-Copy-43" fill="#00C27B" cx="55" cy="61" r="16"></circle>
+            <path d="M55,54 L49,56.5458772 C49,56.5458772 49,59.0909795 49,60.3639182 C49,65.3464304 53.2930194,67.6730492 55,68 C56.7069806,67.6730492 61,65.3464304 61,60.3639182 C61,59.0909795 61,56.5458772 61,56.5458772 L55,54 Z" id="Path-Copy-14" stroke="#FFFFFF" stroke-width="2" fill-rule="nonzero"></path>
+            <rect id="Rectangle-Copy-101" fill="#FFFFFF" x="12" y="13" width="4" height="4"></rect>
+            <rect id="Rectangle-Copy-102" fill="#FFFFFF" x="12" y="36" width="4" height="4"></rect>
+            <rect id="Rectangle-Copy-103" fill="#FFFFFF" x="12" y="59" width="4" height="4"></rect>
+        </g>
+    </g>
+</svg>
